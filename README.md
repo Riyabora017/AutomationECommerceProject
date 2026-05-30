@@ -57,7 +57,7 @@ OR
 ## Run Using Maven
 
 - **mvn test**
--
+
 - ## Reports
 - **Execution reports are generated using Extent Reports in the reports folder.**
 
