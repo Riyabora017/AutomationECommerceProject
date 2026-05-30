@@ -54,11 +54,11 @@ OR
 
 - **Right Click → TestNGTestRunner.java → Run As → TestNG Test** 
 
-Run Using Maven
+## Run Using Maven
 
-mvn test
-Reports
-Execution reports are generated using Extent Reports in the reports folder.
+- **mvn test**
+- **Reports**
+- **Execution reports are generated using Extent Reports in the reports folder.**
 
 ## Author
 Riya Bora
