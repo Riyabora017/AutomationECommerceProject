@@ -58,7 +58,7 @@ OR
 
 - **mvn test**
 
-- ## Reports
+## Reports
 - **Execution reports are generated using Extent Reports in the reports folder.**
 
 ## Author
