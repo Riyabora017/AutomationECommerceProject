@@ -42,7 +42,6 @@ Clone the repository
 Run tests
 OR
 
-## Run TestNGTestRunner.java from IDE.
 ## Run Using TestNG Suite
 
 - **Execute the testng.xml file from your IDE:** 
