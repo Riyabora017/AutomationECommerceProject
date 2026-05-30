@@ -43,7 +43,21 @@ Run tests
 OR
 
 ## Run TestNGTestRunner.java from IDE.
+## Run Using TestNG Suite
 
+- **Execute the testng.xml file from your IDE:** 
+
+- **Right Click → testng.xml → Run As → TestNG Suite** 
+
+## Run Using Cucumber Runner
+
+- **Execute TestNGTestRunner.java:** 
+
+- **Right Click → TestNGTestRunner.java → Run As → TestNG Test** 
+
+Run Using Maven
+
+mvn test
 Reports
 Execution reports are generated using Extent Reports in the reports folder.
 
